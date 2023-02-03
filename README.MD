@@ -1,4 +1,4 @@
-# Carrossel de bichinhos com Javascript
+# Carrossel de bichinhos com Javascript 🐱‍👓🐶🙈🐻🦁
 
 ### Implementei esse carrossel, em Javascript puro com imagens randômicas do https://unsplash.com .
 
