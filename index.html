@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <link rel="stylesheet" href="./style.css" />
+  <title>Carrossel com JavaScript puro: o passo a passo de como criar do zero</title>
+</head>
+<body>
+  <div class="carousel">
+    <div data-js="carousel__item" class="carousel__item carousel__item--visible">
+      <img src="https://source.unsplash.com/random/300X300/?cat" alt="imagem de gatinho" title="imagem de gatinho"/>
+    </div>
+
+    <div data-js="carousel__item" class="carousel__item">
+      <img src="https://source.unsplash.com/random/300X300/?dog" alt="imagem de doguinho" title="imagem de doguinho"/>
+    </div>
+
+    <div data-js="carousel__item" class="carousel__item">
+      <img src="https://source.unsplash.com/random/300X300/?lion" alt="imagem de leão" title="imagem de leão" />
+    </div>
+
+    <div data-js="carousel__item" class="carousel__item">
+      <img src="https://source.unsplash.com/random/300X300/?monkey" alt="imagem de macaco" title="imagem de macaco" />
+    </div>
+
+    <div data-js="carousel__item" class="carousel__item">
+      <img src="https://source.unsplash.com/random/300X300/?bear" alt="imagem de urso" title="imagem de urso" />
+    </div>
+
+    <div class="carousel__actions">
+      <button data-js="carousel__button--prev" aria-label="Slide anterior">
+        <
+      </button>
+
+      <button data-js="carousel__button--next" aria-label="Próximo slide">
+        >
+      </button>
+    </div>
+  </div>
+
+  <script src="./app.js"></script>
+</body>
+</html>
