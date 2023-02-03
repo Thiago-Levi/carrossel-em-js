@@ -24,4 +24,4 @@ Infos extras:
 
 <h2 align="center">Versão Web</h2>
 
-<img src="./tela01.gif" alt="Gif de uma página com carrossel de bichinhos">
+<img src="./src/tela01.gif" alt="Gif de uma página com carrossel de bichinhos">
