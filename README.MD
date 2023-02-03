@@ -2,7 +2,7 @@
 
 ### Implementei esse carrossel, em Javascript puro com imagens randômicas do https://unsplash.com .
 
-👀 Dá uma olhada aqui: <>
+👀 Dá uma olhada aqui: <https://thiago-levi.github.io/carrossel-em-js/>
 
 Infos:
 
